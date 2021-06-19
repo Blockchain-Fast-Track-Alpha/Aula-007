@@ -1,0 +1,6 @@
+node_modules/*
+artifacts/*
+bin/*
+yarn.lock
+.env
+cache/solidity-files-cache.json
